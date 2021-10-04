@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/theme-design-redux/static/css/main.a2462f78.chunk.css",
+    "main.js": "/theme-design-redux/static/js/main.8cee8ce4.chunk.js",
+    "main.js.map": "/theme-design-redux/static/js/main.8cee8ce4.chunk.js.map",
+    "runtime-main.js": "/theme-design-redux/static/js/runtime-main.41e84ef5.js",
+    "runtime-main.js.map": "/theme-design-redux/static/js/runtime-main.41e84ef5.js.map",
+    "static/js/2.a64aaa94.chunk.js": "/theme-design-redux/static/js/2.a64aaa94.chunk.js",
+    "static/js/2.a64aaa94.chunk.js.map": "/theme-design-redux/static/js/2.a64aaa94.chunk.js.map",
+    "static/js/3.2e5d3c1d.chunk.js": "/theme-design-redux/static/js/3.2e5d3c1d.chunk.js",
+    "static/js/3.2e5d3c1d.chunk.js.map": "/theme-design-redux/static/js/3.2e5d3c1d.chunk.js.map",
+    "index.html": "/theme-design-redux/index.html",
+    "static/css/main.a2462f78.chunk.css.map": "/theme-design-redux/static/css/main.a2462f78.chunk.css.map",
+    "static/js/2.a64aaa94.chunk.js.LICENSE.txt": "/theme-design-redux/static/js/2.a64aaa94.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/theme-design-redux/static/media/boxicons.cbd149c5.ttf",
+    "static/media/logo.ef7bfcda.png": "/theme-design-redux/static/media/logo.ef7bfcda.png",
+    "static/media/tuat.7ec76cec.png": "/theme-design-redux/static/media/tuat.7ec76cec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41e84ef5.js",
+    "static/js/2.a64aaa94.chunk.js",
+    "static/css/main.a2462f78.chunk.css",
+    "static/js/main.8cee8ce4.chunk.js"
+  ]
+}
